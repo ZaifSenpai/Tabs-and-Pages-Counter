@@ -1,1 +1,1 @@
-# Tabs-and-Pages-Counter
+# Tabs and Pages Counter
